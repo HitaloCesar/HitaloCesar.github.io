@@ -8,50 +8,55 @@ order: 4
 
 <img src="../assets/images/about_photo.png" height="400" width="400" />
 
-I was born in 2000 and am from Araxa, a small town in the state of Minas Gerais in Brazil but currently I live in Campinas-SP. I have bachelor's degree in Computer Engineering by UNICAMP and am currently an Android framework software engineer at Motorola. In the professional/educational side, I am interested in many different topics such as algorithms, computer theory, mathematics, Android operating system, application development, software engineering and others. I am always willing to learn new things and face new challenges.
+I was born in 2000 and am from Araxa, a small town in the state of Minas Gerais in Brazil but currently I live in Campinas-SP. I have bachelor's degree in Computer Engineering by UNICAMP and am currently an Android framework software engineer at Motorola. In the professional/educational side, I am interested in many different topics such as algorithms, nature-inspired algorithms, computer theory, mathematics, Android operating system, application development, software engineering and others. I am always willing to learn new things and face new challenges.
 
-Out of the professional/eduational side, I also love sports(specially martial arts and chess), music and musical instruments(specially acoustic/eletric guitar and "Viola caipira"); detail: for both things(sports and music) I'm just an admirer with very limited skills hehehe. I also love random conversations about random subjects like philosophy, astronomy, physics, conspiration theories(I don't believe in them but I like talking about them) and so on hehe.
-
-[I don't know nothing about tomorrow](https://www.youtube.com/watch?v=m2iFK8AgDus) as would say the big brazilian musician Almir Sater, buuuuut anyway, beyound the most common aspirations like family, finance, health, etc... I have some wishes to keep fighting to reach before dying hehe. Those wishes currently are:
-- Become a senior software engineer
-- Become a doctor in a field related to computer science or mathematics
-- Become a jiu-jitsu black belt
-- Contribute in the education of childs in Brazil(it might be strange but for me, through sports might be easier than through classical knowledge)
+Out of the professional/eduational side, I also love sports(specially martial arts and chess), music and musical instruments(specially the string ones); detail: for both things(sports and music) I'm merely an admirer with very limited skills hehehe. I also appreciate to have conversations about random subjects like philosophy, astronomy, physics and things like that.
 
 ## Professional Experiences
 
-- **Associate Software Engineer at Motorola**
-  - *2022 - Now*
-  - I am working with Motorola's Android customizations, including security related features, foldable devices and others challenges. Currently at Motorola, I have the opportunity to work on challenging projects, having direct contact with Android operating system(including the basis which is AOSP), and one of the most important parts which is collaborating with very talented people and teams all over the world to deliver top-notch Android-based solutions and also learn a lot.
+- **Software engineer at Motorola - intern and contract**
+  - *2021 - Now*
+  - Designed and implemented customizations in the Android operating system, with a specific focus on the framework, SystemUI, internal privileged/system and security applications to align with Motorola's strategic objectives, serving a global user base of millions.
+  -  Resolved various bugs, including UX and performance issues, leading to an enhanced user experience for a global audience.
+  -  Played a key role in the conception, prototyping, and implementation of exclusive features for premium segment devices, particularly foldable ones.
+  -  Explored Android Open Source Project (AOSP) architecture and its operational aspects, including building, code search, and related procedures
+  -  Developed software solutions with a critical eye for quality while maintaining open lines of communication with customer experience and testing teams, consistently advocating for the best possible user experience within the technical constraints.
 
-- **Software Engineer Internship at Motorola**
-  - *2021 - 2022*
-  - I worked with the System UI's team of Motorola, this is the Android framework's component that is responsible for most parts of the user experience of Motorola's devices; such as status
-bar, navigation bar, notifications and so on. Most relevant tasks performed includes: Develop Android programming skills, understand better the Android's System UI(AOSP and Motorola's one), develop new features and fix issues in Motorola's Android System UI.
+- **Academic cooperation in nature-inspired algorithms at UNIGOU/Brno University in Czech Republic(remote) - academic**
+  - *2023*
+  - Authored an article titled: "Estudo analítico e computacional de uma equação diferencial estocástica associada a um modelo de crescimento populacional" in a national magazine. The article applies stochastic calculus to model and simulate population growth. [Download the article here](../assets/pdfs/crescimento_populacional_estocastico.pdf).
+  - Applied Python and computer skills to simulate and validate theoretical stochastic calculus concepts.
+  - Engaged in theoretical studies related to stochastic calculus topics and mathematical concepts related to this field.
 
-
-- **Scientific initiation in mathematics at UNICAMP**
+- **Scientific initiation in mathematics at UNICAMP - academic**
   - *2019 - 2021*
-  - Were developed studies and simulations related to stochastic calculus topics. During this experience was possible to understand new mathematical concepts, use computer skills to make some simulations to verify theoretical concepts and also publish an article in a national magazine: "Estudo analítico e computacional de uma equação diferencial estocástica associada a um modelo de crescimento populacional": [Download here](../assets/pdfs/crescimento_populacional_estocastico.pdf).
+  - Employed Python to develop an educational interface aimed at aiding undergraduate and graduate students at Brno University in comprehending Particle Swarm Optimization (PSO) and its application in solving the Traveling Salesperson Problem (TSP).
+  - Perform in-depth analysis on PSO, exploring the impact of parameter variations and creating customized versions of it.
+  - Perform literature review to gain a comprehensive understanding of key nature-inspired optimization algorithms, such as PSO, Genetic Algorithm(GA), Ant Colony Optimization(ACO), among others.
 
-- **Electronics technician internship at CEB**
+- **Biomedical Engineering Technician internship at CEB - intern**
   - *2019 - 2020*
-  - CEB is the Biomedical Engineering Center of Unicamp. There I developed a low cost cardiac monitor prototype using ESP32 and a touch screen display. It was interesting because I could understand some basic concepts of biomedical engineering and have contact with ESP32 platform.
+  - Developed a low cost cardiac monitor using ESP32 and a touch screen display.
+  - Understand the principles of biomedical engineering
+  - Observed interdisciplinary engineering professionals performing maintenance on biomedical devices.
 
-- **Internships at Unicamp**
+- **Internships at UNICAMP - intern**
   - *2018 - 2021*
-  - During this time were developed activities in different fields, this internship is related to jobs created by UNICAMP to help students in vulnerable financial situation to keep the college.
-The moost important tasks performed were: test and help to improve tractography methodologies using a software developed by a UNICAMP's research group and help a math professor in the development of a calculus 1 class notes.
+  - Dveloped activities in different fields, those activities are related to jobs created by UNICAMP to help students in vulnerable financial situation to keep the college.
+  - Tested and contributed to the enhancement of tractography methodologies using software developed by an UNICAMP research group.
+  - Collaborated with a mathematics professor in the development of class notes for a Calculus 1 course.
 
 ## Education
 
-- **Bachelor's Degree in Computer Engineering**
+- **Bachelor's Degree in Computer Engineering, Graduated with Distinction**
   - *State University of Campinas - UNICAMP, Campinas-SP*
   - *Conclusion: 2023*
 
 - **Technical Course in Electronics**
   - *CEFET, Araxá-MG*
   - *Conclusion: 2017*
+
+[Download Resume pdf](../assets/pdfs/Resume.pdf)
 
 <img src="../assets/gifs/this_is_my_resume.gif" height="300" width="500" />
 
