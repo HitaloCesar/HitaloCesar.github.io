@@ -24,15 +24,15 @@ Out of the professional/eduational side, I also love sports(specially martial ar
 
 - **Academic cooperation in nature-inspired algorithms at UNIGOU/Brno University in Czech Republic(remote) - academic**
   - *2023*
-  - Authored an article titled: "Estudo analítico e computacional de uma equação diferencial estocástica associada a um modelo de crescimento populacional" in a national magazine. The article applies stochastic calculus to model and simulate population growth. [Download the article here](../assets/pdfs/crescimento_populacional_estocastico.pdf).
-  - Applied Python and computer skills to simulate and validate theoretical stochastic calculus concepts.
-  - Engaged in theoretical studies related to stochastic calculus topics and mathematical concepts related to this field.
-
-- **Scientific initiation in mathematics at UNICAMP - academic**
-  - *2019 - 2021*
   - Employed Python to develop an educational interface aimed at aiding undergraduate and graduate students at Brno University in comprehending Particle Swarm Optimization (PSO) and its application in solving the Traveling Salesperson Problem (TSP).
   - Perform in-depth analysis on PSO, exploring the impact of parameter variations and creating customized versions of it.
   - Perform literature review to gain a comprehensive understanding of key nature-inspired optimization algorithms, such as PSO, Genetic Algorithm(GA), Ant Colony Optimization(ACO), among others.
+
+- **Scientific initiation in mathematics at UNICAMP - academic**
+  - *2019 - 2021*
+  - Authored an article titled: "Estudo analítico e computacional de uma equação diferencial estocástica associada a um modelo de crescimento populacional" in a national magazine. The article applies stochastic calculus to model and simulate population growth. [Download the article here](../assets/pdfs/crescimento_populacional_estocastico.pdf).
+  - Applied Python and computer skills to simulate and validate theoretical stochastic calculus concepts.
+  - Engaged in theoretical studies related to stochastic calculus topics and mathematical concepts related to this field.
 
 - **Biomedical Engineering Technician internship at CEB - intern**
   - *2019 - 2020*
