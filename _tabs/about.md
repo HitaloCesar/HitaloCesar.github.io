@@ -8,7 +8,7 @@ order: 4
 
 <img src="../assets/images/about_photo.png" alt="about_photo" height="400" width="400" />
 
-I was born in 2000 and am from Araxa, a small town in the state of Minas Gerais in Brazil but currently I live in Campinas-SP. I have bachelor's degree in Computer Engineering by UNICAMP and am currently an Android framework software engineer at Motorola. In the professional/educational side, I am interested in many different topics such as algorithms, nature-inspired algorithms, computer theory, mathematics, Android operating system, application development, software engineering and others. I am always willing to learn new things and face new challenges.
+I am from Araxa, a small town in the state of Minas Gerais in Brazil but currently I live in Campinas-SP. I have bachelor's degree in Computer Engineering by UNICAMP and am currently an Android framework software engineer at Motorola. In the professional/educational side, I am interested in many different topics such as algorithms, nature-inspired algorithms, computer theory, mathematics, Android operating system, application development, software engineering and others. I am always willing to learn new things and face new challenges.
 
 Out of the professional/eduational side, I also love sports(specially martial arts and chess), music and musical instruments(specially the string ones); detail: for both things(sports and music) I'm merely an admirer with very limited skills hehehe. I also appreciate to have conversations about random subjects like philosophy, astronomy, physics and things like that.
 
@@ -16,16 +16,16 @@ Out of the professional/eduational side, I also love sports(specially martial ar
 
 - **Software engineer at Motorola - intern and contract**
   - *2021 - Now*
-  - Designed and implemented customizations in the Android operating system, with a specific focus on the framework, SystemUI, internal privileged/system and security applications to align with Motorola's strategic objectives, serving a global user base of millions.
-  -  Resolved various bugs, including UX and performance issues, leading to an enhanced user experience for a global audience.
-  -  Played a key role in the conception, prototyping, and implementation of exclusive features for premium segment devices, particularly foldable ones.
-  -  Explored Android Open Source Project (AOSP) architecture and its operational aspects, including building, code search, and related procedures
-  -  Developed software solutions with a critical eye for quality while maintaining open lines of communication with customer experience and testing teams, consistently advocating for the best possible user experience within the technical constraints.
+  - Implement customizations in the Android operating system, with a specific focus on the framework, SystemUI, internal privileged/system and security applications to align with Motorola's strategic objectives, serving a global user base of millions.
+  -  Solve various kinds of bugs, including UX and performance issues, leading to an enhanced user experience for a global audience.
+  -  Contribute to the conception, prototyping, and implementation of exclusive features for premium segment devices, particularly foldable ones.
+  -  Explore Android Open Source Project(AOSP) architecture and its operational aspects, including building, code search, and related procedures
+  -  Develop software solutions with a critical eye for quality while maintaining open lines of communication with customer experience and testing teams, consistently advocating for the best possible user experience within the technical constraints.
 
 - **Academic cooperation in nature-inspired algorithms at UNIGOU/Brno University in Czech Republic(remote) - academic**
   - *2023*
-  - Employed Python to develop an educational interface aimed at aiding undergraduate and graduate students at Brno University in comprehending Particle Swarm Optimization (PSO) and its application in solving the Traveling Salesperson Problem (TSP).
-  - Perform in-depth analysis on PSO, exploring the impact of parameter variations and creating customized versions of it.
+  - Employed Python to develop an educational interface aimed at aiding undergraduate and graduate students at Brno University in comprehending Particle Swarm Optimization (PSO) and its application in solving the Traveling Salesperson Problem(TSP).
+  - Study PSO to comprehend the consequences of parameter variations and investigate methods for crafting customized adaptations of the PSO algorithm to solve the TSP.
   - Perform literature review to gain a comprehensive understanding of key nature-inspired optimization algorithms, such as PSO, Genetic Algorithm(GA), Ant Colony Optimization(ACO), among others.
 
 - **Scientific initiation in mathematics at UNICAMP - academic**
