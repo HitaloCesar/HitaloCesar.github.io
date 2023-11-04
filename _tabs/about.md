@@ -24,7 +24,7 @@ Out of the professional/eduational side, I also love sports(specially martial ar
 
 - **Academic cooperation in nature-inspired algorithms at UNIGOU/Brno University in Czech Republic(remote) - academic**
   - *2023*
-  - Employed Python to develop an educational interface aimed at aiding undergraduate and graduate students at Brno University in comprehending Particle Swarm Optimization (PSO) and its application in solving the Traveling Salesperson Problem(TSP).
+  - Employed Python to develop an educational interface aimed at aiding people comprehending Particle Swarm Optimization(PSO) and its application in solving optimization problems, especially the Traveling Salesperson Problem(TSP).
   - Study PSO to comprehend the consequences of parameter variations and investigate methods for crafting customized adaptations of the PSO algorithm to solve the TSP.
   - Perform literature review to gain a comprehensive understanding of key nature-inspired optimization algorithms, such as PSO, Genetic Algorithm(GA), Ant Colony Optimization(ACO), among others.
 
