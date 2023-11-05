@@ -8,13 +8,15 @@ order: 4
 
 <img src="../assets/images/about_photo.png" alt="about_photo" height="400" width="400" />
 
-I am from Araxa, a small town in the state of Minas Gerais in Brazil but currently I live in Campinas-SP. I have bachelor's degree in Computer Engineering by UNICAMP and am currently an Android framework software engineer at Motorola. In the professional/educational side, I am interested in many different topics such as algorithms, nature-inspired algorithms, computer theory, mathematics, Android operating system, application development, software engineering and others. I am always willing to learn new things and face new challenges.
+Welcome to my personal website, a place to learn a bit about me and explore my study notes, tutorials, and other random topics that have sparked my interest. I love developing, testing and understanding new ideas, but unfortunately, time constraints often limit my ability to document them, even though I would love to do so. This website is my attempt to share and record those thoughts more regularly, as well as to introduce myself and make new friends. So, please, feel free to reach out and connect.
+
+I am from Araxa, a small town in the state of Minas Gerais in Brazil but currently I live in Campinas-SP. I have bachelor's degree in Computer Engineering by UNICAMP and am currently an Android framework software engineer at Motorola. In the professional/educational side, I am interested in many different topics such as algorithms, nature-inspired algorithms, computer theory, mathematics, Android operating system, application development, software engineering and others. I am always willing to learn new things.
 
 Out of the professional/eduational side, I also love sports(specially martial arts and chess), music and musical instruments(specially the string ones); detail: for both things(sports and music) I'm merely an admirer with very limited skills hehehe. I also appreciate to have conversations about random subjects like philosophy, astronomy, physics and things like that.
 
 ## Professional Experiences
 
-- **Software engineer at Motorola - intern and contract**
+- **Software engineer at Motorola - intern and full-time**
   - *2021 - Now*
   - Implement customizations in the Android operating system, with a specific focus on the framework, SystemUI, internal privileged/system and security applications to align with Motorola's strategic objectives, serving a global user base of millions.
   -  Solve various kinds of bugs, including UX and performance issues, leading to an enhanced user experience for a global audience.
