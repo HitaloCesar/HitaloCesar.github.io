@@ -18,11 +18,12 @@ Out of the professional/eduational side, I also love sports(specially martial ar
 
 - **Software engineer at Motorola - intern and full-time**
   - *2021 - Now*
-  - Implement customizations in the Android operating system, with a specific focus on the framework, SystemUI, internal privileged/system and security applications to align with Motorola's strategic objectives, serving a global user base of millions.
+  - Implement customizations within the Android operating system,placing a specific focus on the framework, SystemUI, internal
+  privileged/system components and security applications, serving a worldwide user base of millions
   -  Solve various kinds of bugs, including UX and performance issues, leading to an enhanced user experience for a global audience.
   -  Contribute to the conception, prototyping, and implementation of exclusive features for premium segment devices, particularly foldable ones.
   -  Explore Android Open Source Project(AOSP) architecture and its operational aspects, including building, code search, and related procedures
-  -  Develop software solutions with a critical eye for quality while maintaining open lines of communication with customer experience and testing teams, consistently advocating for the best possible user experience within the technical constraints.
+  -  Develop software solutions while maintaining open lines of communication with customer experience and testing teams, consistently advocating for the best possible user experience within the technical constraints.
 
 - **Academic cooperation in nature-inspired algorithms at UNIGOU/Brno University in Czech Republic(remote) - academic**
   - *2023*
